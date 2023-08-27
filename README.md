@@ -3,6 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This peoject outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+
 
 
 <h2>Environments and Technologies Used</h2>
@@ -25,10 +27,10 @@
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/6AqpuDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nsJ7eBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is a visual before managing and assigning the individual open tickets.
+This is a visual before managing and assigning the individual open tickets as well as solving the tickets.
 </p>
 <br />
 
@@ -49,7 +51,7 @@ I'm updating the SLA plans and priority levels, and assigning the tickets to the
 <br />
 
 <p>
-<img src="https://i.imgur.com/81av3zB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H7zCKFj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 At the end of the project, I was able to effectively resolve and close the tickets with the help of communication within my team.
